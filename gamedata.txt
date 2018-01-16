@@ -1,0 +1,46 @@
+Question:
+Does the animal have stripes?
+Question:
+Does your animal bark a lot?
+Question:
+Does your animal annoy people?
+Question:
+Does your animal have long hair?
+Question:
+Is it poisonous?
+Question:
+Does it have a long neck?
+Guess:
+It's a Horse
+Guess:
+ giraffe
+Guess:
+ Snake
+Question:
+Is it dirty?
+Guess:
+It's a lion
+Guess:
+ Pig
+Question:
+Does it live in the snow?
+Guess:
+It's a Cat
+Guess:
+ snowbear
+Guess:
+It's a Dog
+Question:
+Is your animal a tiger?
+Question:
+Is your animal a deer?
+Question:
+Is it related to zebra but not zebra?
+Guess:
+It's a Zebra
+Guess:
+It's a Okapi
+Guess:
+It's a Deer
+Guess:
+ Tiger
